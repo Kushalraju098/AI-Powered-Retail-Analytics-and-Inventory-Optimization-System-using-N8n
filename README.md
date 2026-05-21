@@ -13,8 +13,6 @@
 
 <br/>
 
-> Automated pipeline replacing a 3–4 hour manual weekly process with a single n8n trigger — delivering XGBoost reorder predictions, inventory priority tiers, and Gemini AI insights via Gmail in under 20 minutes.
-
 <br/>
 
 | 🎯 AUC-ROC | 📦 Reorder Recall | 🏆 Top Product | ⚡ Runtime |
@@ -25,16 +23,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#-overview)
-- [Business Questions](#-business-questions)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Quick Start](#-quick-start)
-- [Pipeline Details](#-pipeline-details)
-- [Results](#-results)
 # 🛒 AI-Powered Retail Analytics & Inventory Optimization
 
 An end-to-end automated retail analytics pipeline that ingests 32M+ transaction records, trains an XGBoost reorder classifier, scores inventory priority, and delivers AI-generated insights via automated Gmail — all triggered by a single n8n button click in under 20 minutes.
