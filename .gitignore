@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (too large for GitHub — download from Kaggle)
+*.csv
+!outputs/charts/*.png
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Credentials — NEVER commit these
+*.env
+.env
+secrets.json
+credentials.json
+service_account.json
+token.json
+
+# ngrok auth tokens
+# Remove your token from Cell 6 before committing the notebook!
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI
+*.pbix
+
+# Large output files
+outputs/*.csv
+outputs/*.parquet
