@@ -237,6 +237,7 @@ MyDrive/
 3. Connect Gmail via OAuth 2.0 in n8n credentials
 4. Add your Google Gemini API key in n8n credentials
 ```
+![N8n Workflow Architecture](n8n/n8n.png)
 
 ### Step 4 — Run
 
