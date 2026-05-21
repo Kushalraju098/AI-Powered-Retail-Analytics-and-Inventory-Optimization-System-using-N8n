@@ -1,0 +1,11 @@
+product_id,total_orders,reorder_rate,product_name,aisle_id,department_id
+24852,472565,0.8435,Banana,24,4
+13176,379450,0.8326,Bag of Organic Bananas,24,4
+21137,264683,0.7777,Organic Strawberries,24,4
+21903,241921,0.7725,Organic Baby Spinach,123,4
+47209,213584,0.7966,Organic Hass Avocado,24,4
+47766,176815,0.7581,Organic Avocado,24,4
+47626,152657,0.696,Large Lemon,24,4
+16797,142951,0.6982,Strawberries,24,4
+26209,140627,0.681,Limes,24,4
+27845,137905,0.8304,Organic Whole Milk,84,16
